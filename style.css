@@ -1,0 +1,7 @@
+.jumbotron-extended {
+    background-image: url('https://ord.yahoo.co.jp/o/image/RV=1/RE=1542606080/RH=b3JkLnlhaG9vLmNvLmpw/RB=/RU=aHR0cHM6Ly93d3cuaG93dHJhdmVsLmNvbS93cC1jb250ZW50L3VwbG9hZHMvMjAxNi8wMy9zbGlja19zcGVjaWFsLWNvbHVtbi1qaXVmZW5fMTAwLTEwODB4NzIwLmpwZw--/RS=^ADBjGZBEC4CSdHlN5ouBAibclxWS7M-;_ylt=A2RCD05_._BbVA8AuTeU3uV7;_ylu=X3oDMTBpdTJocjY2BHZ0aWQDSVMwMDEEMANJUzAwMQ--;_ylc=X3IDMgRmc3QDMARpZHgDMARvaWQDQU5kOUdjUXRpc2JBTkJLcGxFdmVYU29yaG1XSzh3dUU2RHdvZ19lSEZSV1JVZ3paQVZYRmlPdTB1TFpPOWpyVARwAzVMbWQ1THU5BHBvcwMyMARzZWMDc2h3BHNsawNzZnN0BHR1cmwD');
+    background-size: cover;
+    position: relative;
+    height: 85vh;
+    min-height: 300px;
+}
